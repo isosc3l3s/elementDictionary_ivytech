@@ -1,0 +1,16 @@
+The goal of this program is to take in something about an element, and it will return all the information the user does not have.
+The idea comes from my time in a chemistry lab. I got fed up with looking everything up, and really wished for a quick easy tool to let me convert things.
+There are a number of ways to identify an element, but I will be going of off the symbol, the name, the atomic mass, and the atomic number.
+
+i will need 3 labels, but i will have 5. What info the user has, and the 4 items from the search result.
+
+the buttons which i need 3 of will be find(to find with entered info), add another(which should open a new window to search another element with), and clear(which will empty all the fields to allow another search.)
+
+an additional exit button to close it all out.
+
+i will make a separate dictionary to store all the info for the elements
+
+the main module will search the dictionary for matching elements in its listed value. Should use if else loops to switch through the matches.
+
+other modules will clear the fields, or add a new window to search.
+
