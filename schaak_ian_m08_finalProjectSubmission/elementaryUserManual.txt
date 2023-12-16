@@ -1,0 +1,15 @@
+***Elementary User Manual***
+Run the application. Enter what you were given about a chemical
+atomic number will not have a decimal point
+
+atomic mass will have a decimal. 
+When searching atomic mass, you may need to round the answer down to 4 digits after the decimal point.
+if no result is found with atomic mass, you may need to round off a digit going from 4 after the decimal point to 3 and so on
+
+searching name and symbol will return something if it is actually an element. If it does not find anything check your spelling
+
+
+hit search to look through the periodic table
+hit clear to clear the results and the search bar.
+
+hit exit to close the app when you are done.
